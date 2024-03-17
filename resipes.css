@@ -20,3 +20,9 @@
 #des1 {
     font-weight: bold;
 }
+.btn {
+    border-radius: 20px;
+    background-color: chocolate;
+    color: white;
+    margin-left: 100px;
+}
